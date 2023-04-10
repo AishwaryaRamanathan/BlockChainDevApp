@@ -1,0 +1,14 @@
+2023-04-10 17:28:55.175 +08:00 [INF] Getting the Latest Block
+2023-04-10 17:28:57.058 +08:00 [INF] The Latest Block Number is 17016916
+2023-04-10 17:28:57.065 +08:00 [INF] Getting the Block Details using the retrieved block number.
+2023-04-10 17:28:58.398 +08:00 [INF] The Block details are BlockChainDevApp.Model.Blocks
+2023-04-10 17:28:58.404 +08:00 [INF] Getting the Transactions count for that block number.
+2023-04-10 17:28:58.782 +08:00 [INF] The Transaction count is 139
+2023-04-10 17:28:58.805 +08:00 [INF] Getting the transaction List using blocknumber and uncleindex position.
+2023-04-10 17:28:59.625 +08:00 [INF] The Transaction Lists are BlockChainDevApp.Model.Blocks
+2023-04-10 17:28:59.666 +08:00 [INF] Trying to connect to database.
+2023-04-10 17:28:59.790 +08:00 [INF] Databsae Connection is Successful.
+2023-04-10 17:28:59.826 +08:00 [INF] Records are inserted Sucessfully.
+2023-04-10 17:28:59.836 +08:00 [INF] records areinserted successfully.
+2023-04-10 17:28:59.838 +08:00 [INF] Trying to close the sql connection.
+2023-04-10 17:28:59.841 +08:00 [INF] Connection Closed
